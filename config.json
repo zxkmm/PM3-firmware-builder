@@ -1,8 +1,8 @@
 {
     "refs": ["master"],
     "standaloneList": ["HF_14ASNIFF"],
-    "PLATFORM": "PM3RDV4",
-    "PLATFORM_EXTRAS": "",
+    "PLATFORM": "PM3GENERAL",
+    "PLATFORM_EXTRAS": "FLASH",
     "PLATFORM_SIZE": "",
     "extraOptions": [],
     "buildS19": true
