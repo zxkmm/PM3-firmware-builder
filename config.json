@@ -1,7 +1,7 @@
 {
     "refs": ["master"],
     "standaloneList": ["HF_14ASNIFF"],
-    "PLATFORM": "PM3GENERAL",
+    "PLATFORM": "PM3GENERIC",
     "PLATFORM_EXTRAS": "FLASH",
     "PLATFORM_SIZE": "",
     "extraOptions": [],
