@@ -1,7 +1,7 @@
 {
     "refs": ["v4.15864"],
     "standaloneList": ["HF_14ASNIFF"],
-    "PLATFORM": "PM3GENERIC",
+    "PLATFORM": "PM3RDV4",
     "PLATFORM_EXTRAS": "",
     "PLATFORM_SIZE": "",
     "extraOptions": [],
