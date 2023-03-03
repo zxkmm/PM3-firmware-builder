@@ -1,5 +1,5 @@
 {
-    "refs": ["v4.15864"],
+    "refs": ["master"],
     "standaloneList": ["HF_14ASNIFF"],
     "PLATFORM": "PM3RDV4",
     "PLATFORM_EXTRAS": "",
